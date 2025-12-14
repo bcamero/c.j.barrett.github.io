@@ -1,86 +1,54 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Cameron Barrett's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Cameron Barrett
+BYU–Idaho Student, 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:bar21088@byui.edu">bar21088@byui.edu</a> |
+<a href="https://www.linkedin.com/in/cameron-james-barrett">LinkedIn</a>
 </div>
 
 
 ## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Financial Economics student focused on investment banking, valuation, and applied financial analytics.
 
 ## Education
+`Sep 2023 – Present`
+__Brigham Young University–Idaho__, Rexburg, ID  
+Bachelor of Science in Financial Economics (Minor: Mathematics)  
+- Scholarship: BYU–Idaho Grant  
+- GPA: 3.98 / 4.00  
+- CFA Level I Candidate (Exam: Aug 2025)
 
-`1654-1660`
-__The King's School, Grantham.__
+## Leadership
+`Sep 2025 – Present`
+__Co-President, Investment Banking Society__, BYU–Idaho, Rexburg, ID  
+- Co-founded the Investment Banking Society and co-established governance, structure, and curriculum  
+- Launched and managed the club Instagram account, expanding on-campus reach to 250+ students  
+- Taught discounted cash flow modeling and financial statement analysis in Excel using Wall Street Prep  
+- Organized a campus info session with Lazard (NYC), coordinating outreach, logistics, and promotion to expand recruiting access
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Technical & Analytical Skills
+Programming & Analysis: Python, R Markdown, SQL, Excel, Mathematica  
+Financial Tools: Bloomberg Terminal, Thinkorswim, Trade Ideas, TradingView  
+Data Skills: Financial Statement Analysis, Regression Analysis, Quantitative Analysis, Bond Pricing Models  
 
-- Sizar
+## Relevant Experience
+`Jan 2025 – Present`
+__Teacher Assistant and Lab Tutor__, BYU–Idaho Economics & Math Departments, Rexburg, ID  
+- Created grading keys and detailed rubrics for Financial Analytics assignments; reduced inconsistencies by 15% and improved transparency across 200+ submissions/semester  
+- Taught financial analytics to 8–10 students per session; built Excel/R labs, walkthroughs, and exam-prep guides that improved test scores and pass rates  
+- Built dynamic Excel models (amortization, bond pricing, multi-scenario risk) and embedded them into assignments to reinforce real-world application
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Projects
+`Jan 2025 – Jul 2025`
+__Financial Analytics / Investment Society Projects__  
+- Built an Excel yield-curve dashboard tracking the 3M–10Y U.S. Treasury spread using Bloomberg recession data and the U.S. federal funds rate  
+- Evaluated risk for a basket of equities using statistical metrics in Excel; highlights: Nvidia top risk factor ranking (56.3% ann; 0.97 CoV), Broadcom left-tail (−27.8 skew; 11.8 kurt), Micron (11.1% ann; 4.33 CoV)  
+- Analyzed Palantir Technologies (PLTR) fundamentals; produced a 12-month price target and Hold recommendation using ratios and a 5-year DCF forecast  
+- Modeled CAPM in Excel by regressing BlackRock (BLK) vs S&P 500/DJIA/NASDAQ to estimate β and required return; validated results with three sources (range 1.16–1.39) to inform allocation decisions
 
 
 

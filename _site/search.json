@@ -275,42 +275,42 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Cameron Barrett’s CV",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "BYU–Idaho Student,\n\nbar21088@byui.edu | LinkedIn\n\n\n\nFinancial Economics student focused on investment banking, valuation, and applied financial analytics.\n\n\n\nSep 2023 – Present Brigham Young University–Idaho, Rexburg, ID\nBachelor of Science in Financial Economics (Minor: Mathematics)\n- Scholarship: BYU–Idaho Grant\n- GPA: 3.98 / 4.00\n- CFA Level I Candidate (Exam: Aug 2025)\n\n\n\nSep 2025 – Present Co-President, Investment Banking Society, BYU–Idaho, Rexburg, ID\n- Co-founded the Investment Banking Society and co-established governance, structure, and curriculum\n- Launched and managed the club Instagram account, expanding on-campus reach to 250+ students\n- Taught discounted cash flow modeling and financial statement analysis in Excel using Wall Street Prep\n- Organized a campus info session with Lazard (NYC), coordinating outreach, logistics, and promotion to expand recruiting access\n\n\n\nProgramming & Analysis: Python, R Markdown, SQL, Excel, Mathematica\nFinancial Tools: Bloomberg Terminal, Thinkorswim, Trade Ideas, TradingView\nData Skills: Financial Statement Analysis, Regression Analysis, Quantitative Analysis, Bond Pricing Models\n\n\n\nJan 2025 – Present Teacher Assistant and Lab Tutor, BYU–Idaho Economics & Math Departments, Rexburg, ID\n- Created grading keys and detailed rubrics for Financial Analytics assignments; reduced inconsistencies by 15% and improved transparency across 200+ submissions/semester\n- Taught financial analytics to 8–10 students per session; built Excel/R labs, walkthroughs, and exam-prep guides that improved test scores and pass rates\n- Built dynamic Excel models (amortization, bond pricing, multi-scenario risk) and embedded them into assignments to reinforce real-world application\n\n\n\nJan 2025 – Jul 2025 Financial Analytics / Investment Society Projects\n- Built an Excel yield-curve dashboard tracking the 3M–10Y U.S. Treasury spread using Bloomberg recession data and the U.S. federal funds rate\n- Evaluated risk for a basket of equities using statistical metrics in Excel; highlights: Nvidia top risk factor ranking (56.3% ann; 0.97 CoV), Broadcom left-tail (−27.8 skew; 11.8 kurt), Micron (11.1% ann; 4.33 CoV)\n- Analyzed Palantir Technologies (PLTR) fundamentals; produced a 12-month price target and Hold recommendation using ratios and a 5-year DCF forecast\n- Modeled CAPM in Excel by regressing BlackRock (BLK) vs S&P 500/DJIA/NASDAQ to estimate β and required return; validated results with three sources (range 1.16–1.39) to inform allocation decisions"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "title": "Cameron Barrett’s CV",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Financial Economics student focused on investment banking, valuation, and applied financial analytics."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Cameron Barrett’s CV",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "Sep 2023 – Present Brigham Young University–Idaho, Rexburg, ID\nBachelor of Science in Financial Economics (Minor: Mathematics)\n- Scholarship: BYU–Idaho Grant\n- GPA: 3.98 / 4.00\n- CFA Level I Candidate (Exam: Aug 2025)"
   },
   {
     "objectID": "resume.html#awards",
     "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
+    "title": "Cameron Barrett’s CV",
     "section": "",
     "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
   },
   {
     "objectID": "resume.html#publications",
     "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
+    "title": "Cameron Barrett’s CV",
     "section": "",
     "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
   },
   {
     "objectID": "resume.html#occupation",
     "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
+    "title": "Cameron Barrett’s CV",
     "section": "",
     "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
   },
@@ -484,5 +484,33 @@
     "crumbs": [
       "Full Stack"
     ]
+  },
+  {
+    "objectID": "resume.html#leadership",
+    "href": "resume.html#leadership",
+    "title": "Cameron Barrett’s CV",
+    "section": "",
+    "text": "Sep 2025 – Present Co-President, Investment Banking Society, BYU–Idaho, Rexburg, ID\n- Co-founded the Investment Banking Society and co-established governance, structure, and curriculum\n- Launched and managed the club Instagram account, expanding on-campus reach to 250+ students\n- Taught discounted cash flow modeling and financial statement analysis in Excel using Wall Street Prep\n- Organized a campus info session with Lazard (NYC), coordinating outreach, logistics, and promotion to expand recruiting access"
+  },
+  {
+    "objectID": "resume.html#technical-analytical-skills",
+    "href": "resume.html#technical-analytical-skills",
+    "title": "Cameron Barrett’s CV",
+    "section": "",
+    "text": "Programming & Analysis: Python, R Markdown, SQL, Excel, Mathematica\nFinancial Tools: Bloomberg Terminal, Thinkorswim, Trade Ideas, TradingView\nData Skills: Financial Statement Analysis, Regression Analysis, Quantitative Analysis, Bond Pricing Models"
+  },
+  {
+    "objectID": "resume.html#relevant-experience",
+    "href": "resume.html#relevant-experience",
+    "title": "Cameron Barrett’s CV",
+    "section": "",
+    "text": "Jan 2025 – Present Teacher Assistant and Lab Tutor, BYU–Idaho Economics & Math Departments, Rexburg, ID\n- Created grading keys and detailed rubrics for Financial Analytics assignments; reduced inconsistencies by 15% and improved transparency across 200+ submissions/semester\n- Taught financial analytics to 8–10 students per session; built Excel/R labs, walkthroughs, and exam-prep guides that improved test scores and pass rates\n- Built dynamic Excel models (amortization, bond pricing, multi-scenario risk) and embedded them into assignments to reinforce real-world application"
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Cameron Barrett’s CV",
+    "section": "",
+    "text": "Jan 2025 – Jul 2025 Financial Analytics / Investment Society Projects\n- Built an Excel yield-curve dashboard tracking the 3M–10Y U.S. Treasury spread using Bloomberg recession data and the U.S. federal funds rate\n- Evaluated risk for a basket of equities using statistical metrics in Excel; highlights: Nvidia top risk factor ranking (56.3% ann; 0.97 CoV), Broadcom left-tail (−27.8 skew; 11.8 kurt), Micron (11.1% ann; 4.33 CoV)\n- Analyzed Palantir Technologies (PLTR) fundamentals; produced a 12-month price target and Hold recommendation using ratios and a 5-year DCF forecast\n- Modeled CAPM in Excel by regressing BlackRock (BLK) vs S&P 500/DJIA/NASDAQ to estimate β and required return; validated results with three sources (range 1.16–1.39) to inform allocation decisions"
   }
 ]
